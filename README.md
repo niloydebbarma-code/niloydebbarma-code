@@ -1,4 +1,4 @@
-# Niloy Debbarma
+# Niloy Deb Barma
 
 I am an enthusiastic **AI/ML enthusiast** 🤖, **Space Exploration Advocate** 🌌, and **Environmental Sustainability Champion** 🌱. With a deep interest in advancing **artificial intelligence** and leveraging cutting-edge technologies to solve real-world challenges, I am committed to making impactful contributions in **AI**, **space science**, and **sustainable development**.
 
