@@ -37,7 +37,7 @@ I am always looking for opportunities to collaborate on:
 ## Contact
 - Email 📧: [academicniloydebbarma@gmail.com](mailto:academicniloydebbarma@gmail.com)
 - GitHub 🖥️: [@niloydebbarma-code](https://github.com/niloydebbarma-code)
-- LinkedIn 🔗: [Niloy Debbarma](https://www.linkedin.com/in/niloydebbarma) *(if applicable)*
+- LinkedIn 🔗: [Niloy Debbarma](https://www.linkedin.com/in/niloydebbarmacpscr)
 
 ## Fun Fact
 In addition to my technical work, I am passionate about **nature photography** 📸, **gardening** 🌸, and exploring new recipes and cuisines in **cooking** 🍳. These hobbies help me stay grounded and inspired, fueling my creativity and problem-solving abilities.
