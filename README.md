@@ -39,5 +39,8 @@ I am always looking for opportunities to collaborate on:
 - GitHub 🖥️: [@niloydebbarma-code](https://github.com/niloydebbarma-code)
 - LinkedIn 🔗: [Niloy Debbarma](https://www.linkedin.com/in/niloydebbarmacpscr)
 
+## Resume
+- Resume : [View my resume online](https://niloydebbarma-code.github.io/resume.github.com/)
+
 ## Fun Fact
 In addition to my technical work, I am passionate about **nature photography** 📸, **gardening** 🌸, and exploring new recipes and cuisines in **cooking** 🍳. These hobbies help me stay grounded and inspired, fueling my creativity and problem-solving abilities.
