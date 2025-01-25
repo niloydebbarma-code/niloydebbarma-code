@@ -30,7 +30,7 @@ I work in **artificial intelligence** and **education**, aiming to make AI educa
 - **Activities**:
   - Developed an online platform for AI learning and resources.  
   - Organized workshops and partnerships with global organizations.  
-- **Website**: [AI Youth Alliance](https://aiyouthalliance.com)
+- **Website**: [AI Youth Alliance](https://aiyouthalliance.tech)
 
 ### **National AI Olympiad**
 - **Role**: Founder & CEO  
