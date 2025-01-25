@@ -52,7 +52,7 @@ I am interested in collaborating on:
 
 ## Resume
 
-📄 **[View My Resume](https://niloydebbarma.com/resume)**
+📄 **[View My Resume](https://niloydebbarma-code.github.io/niloydebbarma-resume.github.com/)**
 
 ---
 
