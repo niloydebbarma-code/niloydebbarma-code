@@ -1,46 +1,59 @@
 # Niloy Deb Barma
 
-I am an enthusiastic **AI/ML enthusiast** 🤖, **Space Exploration Advocate** 🌌, and **Environmental Sustainability Champion** 🌱. With a deep interest in advancing **artificial intelligence** and leveraging cutting-edge technologies to solve real-world challenges, I am committed to making impactful contributions in **AI**, **space science**, and **sustainable development**.
+🌟 **AI Practitioner | Researcher | Educator**  
+Rangpur, Bangladesh | [Website](https://niloydebbarma.com) | [LinkedIn](https://www.linkedin.com/in/niloydebbarmacpscr) | [GitHub](https://github.com/niloydebbarma-code)
 
-## Professional Interests
-- **Artificial Intelligence & Machine Learning** 🤖: Passionate about exploring AI technologies and their applications in various fields.
-- **Space Exploration & Astronomy** 🚀: Dedicated to studying the universe and contributing to advancements in space technology and astrophysics.
-- **Environmental Sustainability** 🌍: Focused on utilizing technology and research to develop solutions for climate change and sustainability.
+---
 
-## Current Focus
-- Advancing my understanding and skills in **AI** 🧠 through practical applications and research, especially in **machine learning**, **data science**, and **computer vision**.
-- Engaging in **space exploration** projects 🌠, including collaborations with **NASA’s Open Science Initiative**.
-- Contributing to **sustainability-focused technologies** 🌿 and **community-driven science projects**.
+## About Me
+
+I am a dedicated **Artificial Intelligence Practitioner** with a strong passion for leveraging technology to solve real-world challenges. My expertise lies in **AI education**, **machine learning**, and **data science**, with a commitment to fostering innovation and accessibility in technology.
+
+As the **Founder and CEO of AI Youth Alliance**, I focus on empowering youth through education, mentoring, and collaborative initiatives in AI. My work emphasizes inclusivity and creating pathways for aspiring learners to engage with cutting-edge technologies.
+
+---
 
 ## Skills & Expertise
-- **Programming Languages** 💻: Python, R, SQL, PHP, HTML, CSS, JavaScript
-- **Machine Learning** 🤖: TensorFlow, Keras, Scikit-learn, PyTorch
-- **Data Analysis & Visualization** 📊: Pandas, NumPy, Tableau, Power BI, Matplotlib, Seaborn
-- **Cloud Computing** ☁️: Google Cloud, AWS
-- **Statistical Analysis** 📉: Hypothesis Testing, Regression Analysis, A/B Testing
-- **Project Management** 📅: Experience in organizing AI competitions, workshops, and research projects.
 
-## Collaboration Interests
-I am always looking for opportunities to collaborate on:
-- Open-source **AI** and **machine learning projects** 🤝.
-- Space science initiatives and **astrophysical research** 🪐.
-- **Sustainable technology solutions** 🌍 and **data-driven climate actions** 🌎.
+- **Artificial Intelligence & Machine Learning**: Proficient in developing AI solutions using frameworks like TensorFlow and PyTorch.
+- **Data Analysis**: Skilled in data processing, visualization, and deriving actionable insights.
+- **Web Development**: Experienced in building responsive and interactive web applications.
+- **Leadership**: Proven track record in organizing large-scale initiatives and mentoring teams.
 
-## Organization
-- **AI Youth Alliance** 🌟: Founder & CEO  
-  - Launched a global initiative to empower youth through AI education.
-  - Created and developed an accessible online platform for AI learning.
-  - Organizing workshops and events to inspire the next generation of AI leaders.
-  - Website: [AI Youth Alliance](https://aiyouthalliance.tech)
-  - GitHub: [AI Youth Alliance GitHub](https://github.com/AI-Youth-Allance)
+---
 
-## Contact
-- Email 📧: [academicniloydebbarma@gmail.com](mailto:academicniloydebbarma@gmail.com)
-- GitHub 🖥️: [@niloydebbarma-code](https://github.com/niloydebbarma-code)
-- LinkedIn 🔗: [Niloy Debbarma](https://www.linkedin.com/in/niloydebbarmacpscr)
+## Current Focus
+
+- **AI Education**: Expanding access to AI resources and tools through engaging educational content and platforms.  
+- **Research**: Exploring ethical AI practices and innovative applications in machine learning.  
+- **Mentorship**: Guiding the next generation of technologists to unlock their potential in the field of AI.  
+
+---
 
 ## Resume
-- Resume : [View my resume online](https://niloydebbarma-code.github.io/resume.github.com/)
+
+📄 **Resume**: [View My Resume](https://niloydebbarma-code.github.io/niloydebbarma-resume.github.com/)
+
+---
+
+## Collaboration Opportunities
+
+I am always interested in collaborating on:  
+- **AI/ML Projects**: Practical applications of artificial intelligence in diverse domains.  
+- **Education Initiatives**: Creating workshops and resources for AI enthusiasts.  
+- **Research**: Addressing challenges and opportunities in AI ethics and machine learning.
+
+---
+
+## Contact
+
+📧 **Email**: [contact@niloydebbarma.com](mailto:contact@niloydebbarma.com)  
+🌐 **Website**: [niloydebbarma.com](https://niloydebbarma.com)  
+👨‍💻 **GitHub**: [@niloydebbarma-code](https://github.com/niloydebbarma-code)  
+🔗 **LinkedIn**: [Niloy Deb Barma](https://www.linkedin.com/in/niloydebbarmacpscr)  
+
+---
 
 ## Fun Fact
-In addition to my technical work, I am passionate about **nature photography** 📸, **gardening** 🌸, and exploring new recipes and cuisines in **cooking** 🍳. These hobbies help me stay grounded and inspired, fueling my creativity and problem-solving abilities.
+
+Beyond my technical work, I enjoy exploring astronomy, contributing to citizen science projects, and promoting STEM education to inspire future innovators.
