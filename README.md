@@ -35,11 +35,21 @@
   <a href="https://youtube.com/channel/UChwzJlFL8f9JQRLKBlBGmgQ">
     <img src="https://img.shields.io/youtube/channel/subscribers/UChwzJlFL8f9JQRLKBlBGmgQ?style=social" alt="AI Youth Alliance YouTube" />
   </a>
-  <a href="https://www.kaggle.com/datasets/niloydebbarma/decentralized-free-image-generation-cc0-dataset">
-    <img src="https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=flat&logo=kaggle" alt="Kaggle Dataset" />
+  <a href="https://huggingface.co/niloydebbarma">
+    <img src="https://img.shields.io/badge/HuggingFace-NiloyDebBarma-yellow" alt="Niloy Deb Barma on Hugging Face" />
+  </a>
+  <a href="https://huggingface.co/aiyouthalliance">
+    <img src="https://img.shields.io/badge/HuggingFace-AIYouthAlliance-yellow" alt="AI Youth Alliance on Hugging Face" />
+  </a>
+  <a href="https://www.kaggle.com/niloydebbarma">
+    <img src="https://img.shields.io/badge/Kaggle-NiloyDebBarma-blue" alt="Niloy Deb Barma on Kaggle" />
+  </a>
+  <a href="https://www.kaggle.com/organizations/ai-youth-alliance">
+    <img src="https://img.shields.io/badge/Kaggle-AIYouthAlliance-blue" alt="AI Youth Alliance on Kaggle" />
   </a>
 
 </div>
+
 
 <br/>
 
@@ -127,15 +137,20 @@ This GitHub space includes:
 <!--START_SECTION:featured-repos-->
 | Project Name | Description | Tech Stack | Status | Type |
 |--------------|-------------|------------|--------|------|
-| [`R²&N`](https://r2n-ai-summary.vercel.app/) | Daily AI research + news aggregator | `Python` `NLP` `FastAPI` `RestAPI` | More scapper intrgrating Stage | Public Demo |
-| [`AI Hidden Tools Hub`](https://hidden-ai-tools-hub-preview.netlify.app/) | A repository of paused/hidden AI tools used in the industry | `Python` `TensorFlow` `JavaScript` | Custom model and and Chabot Intialization Stage | Private |
+| [`R²&N`](https://r2n-ai-summary.vercel.app/) | Daily AI research + news aggregator | `Python` `NLP` `FastAPI` `RestAPI` | More scrapper integrating Stage | Public Demo |
+| [`AI Hidden Tools Hub`](https://hidden-ai-tools-hub-preview.netlify.app/) | A repository of paused/hidden AI tools used in the industry | `Python` `TensorFlow` `JavaScript` | Custom model and Chatbot Initialization Stage | Private |
 | [`Manim Animations`](https://github.com/niloydebbarma-code/Manim-Animations) | Educational AI visualizations using Manim | `Python` `Manim` | 🎞️ Coming Soon | Public |
 | [`Diabetes Prediction`](https://github.com/niloydebbarma-code/Diabetics-Prediction) | Predicted diabetes risk based on diagnostic measurements | `Python` `Scikit-learn` `Pandas` | ✅ Completed | Public |
 | [`Create Your Own Image Classifier`](https://github.com/niloydebbarma-code/Udacity-Project-2-my-own-image-classifier) | Flower classification model using VGG16 architecture | `PyTorch` `CNN` `Transfer Learning` | ✅ Completed | Public |
 | [`Pre-trained Image Classifier for Dog Breeds`](https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds) | Dog classifier with high accuracy for dog vs non-dog and breeds | `PyTorch` `CNN` `VGG` | ✅ Completed | Public |
 | [`AI Youth Alliance Website`](https://aiyouthalliance.tech) | Organization website created with PHP, HTML, CSS and JavaScript | `PHP` `HTML` `CSS` `JavaScript` | 🚀 Active | Public |
 | [`RecipeXpertAI`](https://recipexpertai.netlify.app/) | AI-powered recipe recommendation platform | `JavaScript` `React` `Gemini API` | 🚀 Active | Public |
-| `Consciousness Framework` | Mathematical model for artificial consciousness measurement | `Python` `PyTorch` `TensorFlow` | 🔒 Planing | Private |
+| `Consciousness Framework` | Mathematical model for artificial consciousness measurement | `Python` `PyTorch` `TensorFlow` | 🔒 Planning | Private |
+| [`Free Image Generation CC0 Dataset`](https://www.kaggle.com/datasets/niloydebbarma/decentralized-free-image-generation-cc0-dataset) | CC0 image dataset. | `Dataset` | 📅 Bimonthly | Public |
+| [`Free Image Generation CC0 Model`](https://huggingface.co/aiyouthalliance/Free-Image-Generation-CC0) | CC0 text-to-image model. | `Diffusion` | ✅ Completed | Public |
+
+
+
 <!--END_SECTION:featured-repos-->
 
 
