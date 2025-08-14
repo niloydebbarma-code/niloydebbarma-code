@@ -79,7 +79,7 @@
 | **Cerebras Fellow** | *Research Program* |
 | **AWS & Udacity Scholar** | *AI & ML* |
 | **Mentor, REYES 2025** | *UC Berkeley* |
-| **Google Archæ Facilitator** | *Program* |
+| **Google Arcade Facilitator** | *Program* |
 
 </div>
 
