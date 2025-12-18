@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/146704168?v=4" width="120" alt="Niloy Deb Barma" style="border-radius:50%;" />
 
-# 👋 Hi, I'm Niloy Deb Barma
+# 👋 Hi, I'm [Niloy Deb Barma](https://www.niloydebbarma.work.gd)
 
 **AI Researcher • Developer • Explorer of Intelligent Systems**
 
@@ -94,7 +94,7 @@ I enjoy sharing what I learn and working with others. If you want to talk about 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square)](https://linkedin.com/in/niloydebbarmacpscr)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square)](https://niloydebbarma.com)
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square)](https://www.niloydebbarma.work.gd/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-NiloyDebBarma-blue?style=flat-square)](https://www.kaggle.com/niloydebbarma)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-NiloyDebBarma-yellow?style=flat-square)](https://huggingface.co/niloydebbarma)
 [![Email](https://img.shields.io/badge/Email-academicniloydebbarma@gmail.com-D14836?style=flat-square)](mailto:academicniloydebbarma@gmail.com)
