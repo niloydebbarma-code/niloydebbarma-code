@@ -30,20 +30,20 @@ I enjoy sharing what I learn and working with others. If you want to talk about 
     <th>Description</th>
   </tr>
   <tr>
-    <td>AllyCat Project (Meta & IBM)</td>
+    <td><a href="https://github.com/niloydebbarma-code/SmartHomework/blob/main/">SmartHomework AI</a> 🏆</td>
+    <td>Google DeepMind Hackathon Winner — Multimodal AI tutor with pixel-precise error detection on handwritten homework</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/niloydebbarma-code/allycat">AllyCat Project (Meta & IBM)</a></td>
     <td>AI for finding and understanding information (GraphRAG, RAG)</td>
   </tr>
   <tr>
-    <td>BanglaSenti LoRA</td>
+    <td><a href="https://github.com/niloydebbarma-code/LORA-FINETUNING-BANGLASENTI-XLMR-GOOGLE-TPU">BanglaSenti LoRA</a></td>
     <td>Sentiment analysis for Bengali language (accuracy from 44% to 80%+)</td>
   </tr>
   <tr>
-    <td>Free Image Generator</td>
-    <td>Open creative AI for everyone</td>
-  </tr>
-  <tr>
-    <td>More</td>
-    <td>Other projects: sentiment analysis, image classification, practical ML demos</td>
+    <td><a href="https://huggingface.co/aiyouthalliance/Free-Image-Generation-CC0">Free Image Generation Model</a></td>
+    <td>Open creative AI model released with CC0 license for public use</td>
   </tr>
 </table>
 
